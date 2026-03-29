@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shaik Abdul Rehaman<br><br>Passionate Developer | Tech Enthusiast | Lifelong Learner<br><br>I am a dedicated and curious developer who enjoys building real-world projects and continuously improving my skills in programming and technology. I have a strong interest in software development, problem-solving, and exploring modern tools and frameworks.<br><br>Skills:<br>- Programming: Python / Java / C++ (edit based on you)<br>- Web Development: HTML, CSS, JavaScript<br>- Tools & Technologies: Git, GitHub, VS Code<br><br>Currently Learning:<br>- Full Stack Development / Data Science / AI (edit this)<br><br>Goals:<br>- Build impactful projects<br>- Contribute to open source<br>- Grow as a professional developer<br><br>Contact: your-email@example.com
-
+Hi, I'm Shaik Abdul Rehaman<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rehaman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrabbu985@gmail.com) 
